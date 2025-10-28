@@ -32,4 +32,4 @@ It demonstrates how data science and HEOR frameworks can translate into **real-w
 **Dr. El Hadji Moudo Macina**  
 📧 moudomacina@gmail.com | 📞 +33 7 59 20 18 47  
 🎓 MIT Professional Education – Applied Data Science & AI  
-🌐 [linkedin.com/in/moudomacina](https://linkedin.com/in/moudomacina)
+🌐 [linkedin.com/in/moudomacina]([(https://www.linkedin.com/in/elhadjimoudomacinaphd/)])
